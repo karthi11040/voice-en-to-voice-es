@@ -1,4 +1,4 @@
-# voice-en--to-voice-es-
+# voice-en-to-voice-es
 
 Real-time **English voice → Spanish voice** translator built as a
 three-stage pipeline:
