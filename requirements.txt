@@ -1,0 +1,11 @@
+# Core pipeline dependencies
+openai>=1.14.0
+deep-translator>=1.11.4
+gTTS>=2.5.1
+
+# Microphone recording (optional – only needed for --record mode)
+sounddevice>=0.4.6
+soundfile>=0.12.1
+
+# Standard test runner
+pytest>=8.1.0
